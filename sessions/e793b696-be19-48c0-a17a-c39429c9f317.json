@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "title": "It Seems Like There'S No Conversation Provided. Could You Please Provide The Conversation",
+    "created_at": "2025-01-25 13:13:22.565075",
+    "last_updated": "2025-01-25 13:13:30.377494",
+    "message_count": 1,
+    "model": "google",
+    "context": {
+      "llama": [],
+      "claude": [],
+      "openai": [],
+      "gemini": [],
+      "google": []
+    }
+  },
+  "history": [
+    {
+      "model": "google",
+      "input_text": "how make pasta",
+      "response": "<div style='margin-bottom: 10px;'><a href='https://www.loveandlemons.com/homemade-pasta-recipe/' target='_blank' style='font-size: 16px; color: blue;'>Homemade Pasta - Recipes by Love and Lemons</a><br><span style='font-size: 14px; color: gray;'>Fresh pasta is SO easy to make! This homemade pasta recipe uses just 4 ingredients - flour, eggs, olive oil, and salt - and it comes out perfect every time.</span><br><span style='font-size: 12px; color: green;'>https://www.loveandlemons.com/homemade-pasta-recipe/</span></div><br><div style='margin-bottom: 10px;'><a href='https://www.allrecipes.com/recipe/11899/basic-pasta/' target='_blank' style='font-size: 16px; color: blue;'>No Title</a><br><span style='font-size: 14px; color: gray;'>No description available.</span><br><span style='font-size: 12px; color: green;'>https://www.allrecipes.com/recipe/11899/basic-pasta/</span></div><br><div style='margin-bottom: 10px;'><a href='https://www.biggerbolderbaking.com/homemade-pasta-2-ingredient/' target='_blank' style='font-size: 16px; color: blue;'>2 Ingredient Homemade Pasta Recipe (Without A Machine)</a><br><span style='font-size: 14px; color: gray;'>My 2 Ingredient Homemade Pasta recipe yields perfect pasta\u00a0with just a bit of flour and fresh eggs \u2014 and no machine necessary!</span><br><span style='font-size: 12px; color: green;'>https://www.biggerbolderbaking.com/homemade-pasta-2-ingredient/</span></div><br><div style='margin-bottom: 10px;'><a href='https://www.jamieoliver.com/recipes/pasta/a-basic-recipe-for-fresh-egg-pasta/' target='_blank' style='font-size: 16px; color: blue;'>How to make fresh pasta | Homemade pasta</a><br><span style='font-size: 14px; color: gray;'>A homemade pasta dough recipe from Jamie Oliver that shows you how to make fresh pasta from scratch. It couldn't be easier! Serve with fresh pesto, or just Parmesan.</span><br><span style='font-size: 12px; color: green;'>https://www.jamieoliver.com/recipes/pasta/a-basic-recipe-for-fresh-egg-pasta/</span></div><br><div style='margin-bottom: 10px;'><a href='https://www.indianhealthyrecipes.com/masala-pasta/' target='_blank' style='font-size: 16px; color: blue;'>Sucuri WebSite Firewall - Access Denied</a><br><span style='font-size: 14px; color: gray;'>No description available.</span><br><span style='font-size: 12px; color: green;'>https://www.indianhealthyrecipes.com/masala-pasta/</span></div>",
+      "timestamp": "2025-01-25T13:13:31.308212"
+    }
+  ]
+}

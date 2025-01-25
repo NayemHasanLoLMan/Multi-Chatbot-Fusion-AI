@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "title": "\"Discussion on Remote Work Challenges and Solutions\"",
+    "created_at": "2025-01-25 12:16:37.096214",
+    "last_updated": "2025-01-25 12:16:39.491066",
+    "message_count": 1,
+    "model": "google",
+    "context": {
+      "llama": [],
+      "claude": [],
+      "openai": [],
+      "gemini": [],
+      "google": []
+    }
+  },
+  "history": [
+    {
+      "model": "google",
+      "input_text": "Hellow orl;d",
+      "response": "<a href='/search?num=7' target='_blank'>/search?num=7</a><br><div style='margin-bottom: 10px;'><a href='https://en.wikipedia.org/wiki/%22Hello,_World!%22_program' target='_blank' style='font-size: 16px; color: blue;'>\"Hello, World!\" program - Wikipedia</a><br><span style='font-size: 14px; color: gray;'>No description available.</span><br><span style='font-size: 12px; color: green;'>https://en.wikipedia.org/wiki/%22Hello,_World!%22_program</span></div><br><div style='margin-bottom: 10px;'><a href='https://code.org/helloworld' target='_blank' style='font-size: 16px; color: blue;'>Hello World | Code.org</a><br><span style='font-size: 14px; color: gray;'>No description available.</span><br><span style='font-size: 12px; color: green;'>https://code.org/helloworld</span></div><br><div style='margin-bottom: 10px;'><a href='https://www.programiz.com/c-programming/examples/print-sentence' target='_blank' style='font-size: 16px; color: blue;'>C \"Hello, World!\" Program</a><br><span style='font-size: 14px; color: gray;'>In this example, you will learn to print \"Hello, World!\" on the screen in C programming. A \"Hello, World!\" is a simple program to display \"Hello, World!\" on the screen.</span><br><span style='font-size: 12px; color: green;'>https://www.programiz.com/c-programming/examples/print-sentence</span></div><br><div style='margin-bottom: 10px;'><a href='https://helloworld.com.au/' target='_blank' style='font-size: 16px; color: blue;'>No Title</a><br><span style='font-size: 14px; color: gray;'>No description available.</span><br><span style='font-size: 12px; color: green;'>https://helloworld.com.au/</span></div>",
+      "timestamp": "2025-01-25T12:16:40.166927"
+    }
+  ]
+}

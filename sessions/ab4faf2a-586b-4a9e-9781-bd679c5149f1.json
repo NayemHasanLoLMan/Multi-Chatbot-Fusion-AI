@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "title": "New Chat",
+    "created_at": "2025-01-25 13:19:20.906884",
+    "last_updated": "2025-01-25 13:19:23.964575",
+    "message_count": 1,
+    "model": "google",
+    "context": {
+      "llama": [],
+      "claude": [],
+      "openai": [],
+      "gemini": [],
+      "google": []
+    }
+  },
+  "history": [
+    {
+      "model": "google",
+      "input_text": "facebook",
+      "response": "<div style='margin-bottom: 10px;'><a href='https://www.facebook.com/' target='_blank' style='font-size: 16px; color: blue;'>Facebook \u2013 log in or sign up</a><br><span style='font-size: 14px; color: gray;'>Log in to Facebook to start sharing and connecting with your friends, family and people you know.</span><br><span style='font-size: 12px; color: green;'>https://www.facebook.com/</span></div><br><div style='margin-bottom: 10px;'><a href='https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en' target='_blank' style='font-size: 16px; color: blue;'>Facebook - Apps on Google Play</a><br><span style='font-size: 14px; color: gray;'>Explore the things you love</span><br><span style='font-size: 12px; color: green;'>https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en</span></div><br><div style='margin-bottom: 10px;'><a href='https://about.meta.com/company-info/' target='_blank' style='font-size: 16px; color: blue;'>Company Information, Culture, and Principles | About Meta</a><br><span style='font-size: 14px; color: gray;'>Meta's mission is to build the future of human connection and the technology that makes it possible. Learn more about our culture, employees and leadership team.</span><br><span style='font-size: 12px; color: green;'>https://about.meta.com/company-info/</span></div><br><div style='margin-bottom: 10px;'><a href='https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en' target='_blank' style='font-size: 16px; color: blue;'>Facebook Lite - Apps on Google Play</a><br><span style='font-size: 14px; color: gray;'>This version of Facebook uses less data and works in all network conditions.</span><br><span style='font-size: 12px; color: green;'>https://play.google.com/store/apps/details?id=com.facebook.lite&hl=en</span></div><br><div style='margin-bottom: 10px;'><a href='https://www.wsj.com/articles/the-facebook-files-11631713039' target='_blank' style='font-size: 16px; color: blue;'>No Title</a><br><span style='font-size: 14px; color: gray;'>No description available.</span><br><span style='font-size: 12px; color: green;'>https://www.wsj.com/articles/the-facebook-files-11631713039</span></div>",
+      "timestamp": "2025-01-25T13:19:23.964575"
+    }
+  ]
+}
